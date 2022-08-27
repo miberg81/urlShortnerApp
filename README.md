@@ -17,7 +17,7 @@ https://en.wikipedia.org/adab71058e65
 POST to: <br />
 http://localhost:8080/redirect <br />
 with the short version (should be created earlier) <br />
-redirect to the original page using the long url <br />
+redirects to the original page using the long url <br />
 (preview response in postman to see the page preview) <br />
 
 Please note:<br />
