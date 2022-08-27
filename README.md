@@ -7,9 +7,11 @@ When working with localhost
 **1. Api to shorten the url** <br />
 POST to: <br />
 http://localhost:8080/shorten <br />
-With long url in the request body, like: <br />
+with long url in the request body, like: <br />
 https://en.wikipedia.org/wiki/URL_shortening#Techniques <br />
 returns the short version <br />
+which looks like: <br />
+https://en.wikipedia.org/adab71058e65
 
 **2. Api which will redirect to the original url** <br />
 POST to: <br />
