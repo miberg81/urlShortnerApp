@@ -25,7 +25,7 @@ Please note:<br />
 1. AerospikeService.java  - to manage requests to the database. <br />
 2. UrlService.java - to manage the url conversions. <br />
 
-**The app contains 3 tests which tests all major functionality in:** <br />
+**The app contains 3 tests which test all major functionality in:** <br />
 AerospikeServiceTest.java <br />
 
 Enjoy the app! :) <br />
